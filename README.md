@@ -39,7 +39,8 @@
 | 12 | All Corrections Combined              | Unified effective field equation         |
 | 13 | Observable Terms                      | Pressure + Dissipation (\( \mathcal{P}_{\mu\nu} \)) |
 | 14 | Final Covariant ANOROC                | General, test-ready equation             |
-| 15 | Final ANOROC-String Equation                |             |
+| 15 | Final ANOROC-String Equation                |    *"Axiomatic Non-local Omnidimensional Ricci-based Open/Closed Cosmological"*  
+         |
 
 ## 📂 Repository Structure
 
