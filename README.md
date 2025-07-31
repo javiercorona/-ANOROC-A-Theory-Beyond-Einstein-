@@ -6,7 +6,7 @@
 
 ## 🔭 Overview
 
-- ANOROC = A Nonperturbative Oscillatory-Regulated Curvature model
+- ANOROC = A Nonperturbative Oscillatory-Regulated of Curvature model
 - Resolves classical singularities
 - Introduces quantum corrections to Einstein’s equations
 - Uses string-inspired regulators (smooth, exponential)
