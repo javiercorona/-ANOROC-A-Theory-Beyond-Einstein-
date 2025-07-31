@@ -40,6 +40,10 @@
 | 13 | Observable Terms                      | Pressure + Dissipation (\( \mathcal{P}_{\mu\nu} \)) |
 | 14 | Final Covariant ANOROC                | General, test-ready equation             |
 | 15 | Final ANOROC-String Equation                |    *"Axiomatic Non-local Omnidimensional Ricci-based Open/Closed Cosmological"*  
+
+![image](https://github.com/user-attachments/assets/b8ba2769-15bf-470a-b289-0d52215c74db)
+
+
          
 
 ## 📂 Repository Structure
