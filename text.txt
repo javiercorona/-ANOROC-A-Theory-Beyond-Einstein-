@@ -1,0 +1,60 @@
+#
+Name / Context
+Equation (LaTeX Form)
+Physical Role / Key Features
+1
+Galactic Debris Dynamics
+\frac{d\sigma_r}{dt} = -\frac{GM_{\text{core}}}{r^2} + \frac{\Lambda(t) v_p^2}{\sqrt{r^2 + r_s^2}} + \zeta \frac{c_s^2}{r} - \eta \sigma_r^2
+Astrophysical motivation; stellar debris evolution with dark feedback
+2
+Modified Gravity with Exotic Sources
+G_{\mu\nu}^{(4)} + \kappa_{(4)}T_{\mu\nu}^{(4)} = e^{-\beta\phi}\left[G_{AB}^{(D)}g^{AB}{(4)} + \mathcal{F}{\mu\nu}\right] + \Lambda\left(\sqrt{\frac{3}{8\pi}}\frac{\gamma(v)v^2r_p^2\rho_g}{Gc^2}\right)g_{\mu\nu}
+Higher-D, string-motivated corrections; bulk/brane leakage
+3
+Classical GR (Einstein)
+G_{\mu\nu} = \kappa T_{\mu\nu}
+Standard General Relativity baseline
+4
+ANOROC v2 (Hard Cutoff)
+G_{\mu\nu} + \lambda H_{\mu\nu} = T_{\mu\nu}
+First curvature regulation (hard cutoff λ)
+5
+ANOROC v2 (Soft Cutoff)
+G_{\mu\nu} + f(K)H_{\mu\nu} = T_{\mu\nu}
+Soft cutoff for curvature regulation (f(K))
+6
+ANOROC v3 (Quantum Correction)
+G_{\mu\nu} + f(K)H_{\mu\nu} + cV_{\mu\nu} = \kappa f(K)T_{\mu\nu}^{(\text{eff})}
+Quantum geometry backreaction introduced
+7
+ANOROC v9 (Nonperturbative, Covariant)
+G_{\mu\nu} + f’(K)H_{\mu\nu} + V_{\mu\nu} = \sigma_{\mu\nu}
+Smooth regulator and fully covariant quantum corrections
+8
+Planckian Cutoff/Bounded Curvature
+G_{\mu\nu} + (1 - e^{-K/K_{\text{max}}})H_{\mu\nu} + CV_{\mu\nu} = \kappa (1 - e^{-K/K_{\text{max}}})g_{\mu\nu} + T_{\mu\nu}^{(\text{eff})}
+Exponential cutoff at Planck scale
+9
+Phenomenological/Scalar Extension
+G_{\mu\nu} + f(K)H_{\mu\nu} + CV_{\mu\nu} = kf(K)T_{\mu\nu}^{(\text{eff})} + \alpha \nabla_\mu\phi \nabla_\nu\phi - \beta e^{-\lambda (K-K_{\text{crit}})}g_{\mu\nu}
+Additional scalar/field phenomenology
+10
+ANOROC-String (Canonical)
+G_{\mu\nu} + f(K)H_{\mu\nu} + CV_{\mu\nu} = \kappa f(K)T_{\mu\nu}^{(-1)}
+String gravity: matter from Nambu-Goto action, cutoff by string length
+11
+ANOROC-String (Vacuum Expectation)
+G_{\mu\nu} + f(K)H_{\mu\nu} + V_{\mu\nu} = k(f(K)T_{\mu\nu}^{(\text{string})})
+Quantum vacuum effects, 1-loop string expectation
+12
+All Corrections (Poster/Boxed)
+G_{\mu\nu} + \Delta H_{\mu\nu} + (f(K) + \Delta V_{\mu\nu}) = k f(K) T_{\mu\nu} = k \delta([K]) T_{\mu\nu}^{(\text{string})}
+Complete string, quantum, cutoff corrections
+13
+Observable Terms/Phenomenology
+G_{\mu\nu} + f(K)H_{\mu\nu} + CV_{\mu\nu} = \kappa f(K)g_{\mu\nu} + \mathcal{P}{\mu\nu} + \mathcal{D}{\mu\nu}
+Includes observable pressure/dissipation
+14
+Final Covariant ANOROC(-String)
+G_{\mu\nu} + f(K)H_{\mu\nu} + CV_{\mu\nu} = \kappa f(K)T_{\mu\nu}^{(\text{eff})}
+Final, general covariant form ready for physical/phenomenological use
