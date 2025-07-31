@@ -39,7 +39,7 @@
 | 12 | All Corrections Combined              | Unified effective field equation         |
 | 13 | Observable Terms                      | Pressure + Dissipation (\( \mathcal{P}_{\mu\nu} \)) |
 | 14 | Final Covariant ANOROC                | General, test-ready equation             |
-| 15 | Final  ANOROC                |             |
+| 15 | Final ANOROC-String Equation                |             |
 
 ## 📂 Repository Structure
 
