@@ -57,8 +57,8 @@
 - Equation 13 → CMB/structure probes (pressure, dissipation)
 - Equation 14 → Theoretical frontier (~2030+)
 
-## 🔗 External Resources
-![Uploading image.jpeg…]()
+![image](https://github.com/user-attachments/assets/5247831a-9a97-4f60-89af-dfd4d38f862d)
+
 <img width="2370" height="1538" alt="image" src="https://github.com/user-attachments/assets/20b2af29-fcb6-488d-8472-911b851f68dc" />
 
 - Zenodo: https://zenodo.org/record/16544843
