@@ -1,19 +1,52 @@
 \documentclass{article}
-\usepackage{amsmath, amssymb, graphicx}
-\title{Final ANOROC-String Equation}
+\usepackage{amsmath, amssymb}
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric, arrows.meta, positioning}
+
+\tikzstyle{block} = [rectangle, draw=blue!50, fill=blue!10, thick, text width=13.5cm, minimum height=1.8cm, text centered, rounded corners]
+\tikzstyle{arrow} = [thick, ->, >=stealth]
+
 \begin{document}
-\maketitle
-\section{Master Equation}
-\[
-G_{\mu\nu} + \lambda^2 R H_{\mu\nu} + g_s^2 \ell_s^2 V_{\mu\nu}^{\text{(string)}} = e^{-\beta\phi} \left[ G_{AB}^{(5)} g_{(4)}^{AB} + B_{\mu\nu} \right] + \Lambda_{\text{dark}} g_{\mu\nu} + \alpha \Theta_{\mu\nu} + T_{\mu\nu}^{\text{(eff)}}
-\]
-\section{Term Definitions}
-\begin{itemize}
-  \item $G_{\mu\nu}$: Einstein tensor (4D gravity).
-  \item $\lambda^2 R H_{\mu\nu}$: Non-local quantum correction.
-  \item $V_{\mu\nu}^{\text{(string)}}$: String-theoretic Kalb-Ramond field.
-  \item $G_{AB}^{(5)} g_{(4)}^{AB}$: Bulk-to-brane gravity projection.
-\end{itemize}
-\section{ANOROC Acronym}
-\textbf{A}xiomatic \textbf{N}on-local \textbf{O}mnidimensional \textbf{R}icci-based \textbf{O}pen/Closed \textbf{C}osmological.
+
+\section*{Complete Evolution of ANOROC/ANOROC-String Equations}
+
+\begin{center}
+\begin{tikzpicture}[node distance=1.9cm]
+
+\node (v1) [block] {Galactic Debris Dynamics\\$\displaystyle \frac{d\sigma}{dt} = -\frac{GM_{\text{core}}}{r^2} + \frac{N(t)\dot{v}^2}{\sqrt{r^2 + r_c^2}} + \xi^2 - \eta\sigma_0^2$};
+
+\node (v2) [block, below of=v1] {Modified Gravity (Exotic Sources)\\$\displaystyle G_{\mu\nu}^{(4)} + K(a)(T_{\mu\nu}^{(4)}) = e^{-\beta\phi}(G_{AB}^{(5)}g_{(4)}^{AB} + T_{\mu\nu}) + \mathcal{X}^{(\nu\gamma\mu\rho\beta)}g_{\mu\nu}$};
+
+\node (v3) [block, below of=v2] {Classical GR (Einstein)\\$\displaystyle G_{\mu\nu} = \kappa T_{\mu\nu}$};
+
+\node (v4) [block, below of=v3] {ANOROC (Hard Cutoff)\\$\displaystyle G_{\mu\nu} + \Lambda_{\mu\nu} = T_{\mu\nu}$};
+
+\node (v5) [block, below of=v4] {ANOROC (Soft Cutoff)\\$\displaystyle G_{\mu\nu} + f(K)H_{\mu\nu} = T_{\mu\nu}$};
+
+\node (v6) [block, below of=v5] {Quantum Correction\\$\displaystyle G_{\mu\nu} + f(K)H_{\mu\nu} + \nu_{\mu\nu} = \kappa f(K)T^{(\text{eff})}_{\mu\nu}$};
+
+\node (v7) [block, below of=v6] {Nonperturbative Covariant ANOROC\\$\displaystyle G_{\mu\nu} + f(K)H_{\mu\nu} + \nu_{\mu\nu} = \sigma_{\mu\nu}$};
+
+\node (v8) [block, below of=v7] {Planckian Cutoff\\$\displaystyle G_{\mu\nu} + (1 - e^{-K/K_{\max}})H_{\mu\nu} + CV_{\mu\nu} = \kappa (1 - e^{-K/K_{\max}})g_{\mu\nu} + T^{(\text{eff})}_{\mu\nu}$};
+
+\node (v9) [block, below of=v8] {Phenomenological Scalar Extension\\$\displaystyle G_{\mu\nu} + f(K)H_{\mu\nu} + CV_{\mu\nu} = \kappa f(K)T^{(\text{eff})}_{\mu\nu} + \alpha \nabla_\mu \phi \nabla_\nu \phi - \beta e^{-\lambda(K - K_{\text{cut}})}g_{\mu\nu}$};
+
+\node (v10) [block, below of=v9] {ANOROC-String (Canonical)\\$\displaystyle G_{\mu\nu} + f(K)H_{\mu\nu} + CV_{\mu\nu} = \kappa f(K)T^{(T-1)}_{\mu\nu}$};
+
+\node (v11) [block, below of=v10] {ANOROC-String (Vacuum Expectation)\\$\displaystyle G_{\mu\nu} + f(K)H_{\mu\nu} + \nu_{\mu\nu} = \kappa f(K)\langle T^{(\text{string})}_{\mu\nu} \rangle$};
+
+\node (v12) [block, below of=v11] {All Corrections (Complete Form)\\$\displaystyle G_{\mu\nu} + \Delta H_{\mu\nu} + (f(K) + \Delta\nu_{\mu\nu}) = \kappa f(K)T_{\mu\nu} + \delta S([K])T^{(\text{string})}_{\mu\nu}$};
+
+\node (v13) [block, below of=v12] {Observable Terms / Phenomenology\\$\displaystyle G_{\mu\nu} + f(K)H_{\mu\nu} + CV_{\mu\nu} = \kappa f(K)g_{\mu\nu} + P_{\mu\nu} + D_{\mu\nu}$};
+
+\node (v14) [block, below of=v13] {\textbf{Final Covariant ANOROC–String Equation (v15)}\\[0.5em]
+$\displaystyle G_{\mu\nu} + \lambda^2 R H_{\mu\nu} + g_s^2 \ell_s^2 V_{\mu\nu}^{\text{(string)}} = e^{-\beta\phi} \left[ G^{(5)}_{AB} g^{AB}_{(4)} + B_{\mu\nu} \right] + \Lambda_{\text{dark}} g_{\mu\nu} + \alpha \Theta_{\mu\nu} + \mathcal{G}(r,t) + T_{\mu\nu}^{(\text{eff})}$};
+
+% Draw arrows
+\foreach \i/\j in {v1/v2, v2/v3, v3/v4, v4/v5, v5/v6, v6/v7, v7/v8, v8/v9, v9/v10, v10/v11, v11/v12, v12/v13, v13/v14}
+  \draw[arrow] (\i) -- (\j);
+
+\end{tikzpicture}
+\end{center}
+
 \end{document}
