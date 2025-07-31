@@ -59,9 +59,12 @@
 
 ## 🔗 External Resources
 ![Uploading image.jpeg…]()
+<img width="2370" height="1538" alt="image" src="https://github.com/user-attachments/assets/20b2af29-fcb6-488d-8472-911b851f68dc" />
 
 - Zenodo: https://zenodo.org/record/16544843
 - GitHub: https://github.com/javiercorona/Anoroctheoryofeverything
+
+
 
 ## ⚖️ License
 
