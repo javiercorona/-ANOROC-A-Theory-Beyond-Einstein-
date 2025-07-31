@@ -19,7 +19,7 @@
 - 2-page explanation of all terms and physical roles
 - LaTeX source and poster-ready equations
 - Testable predictions (Equations 1, 2, 13)
-- Optional secure messaging engine ("Buoy Cipher")
+
 
 ## 📐 Equation Summary Table
 
