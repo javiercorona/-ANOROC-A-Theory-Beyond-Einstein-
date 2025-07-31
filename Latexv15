@@ -1,0 +1,19 @@
+\documentclass{article}
+\usepackage{amsmath, amssymb, graphicx}
+\title{Final ANOROC-String Equation}
+\begin{document}
+\maketitle
+\section{Master Equation}
+\[
+G_{\mu\nu} + \lambda^2 R H_{\mu\nu} + g_s^2 \ell_s^2 V_{\mu\nu}^{\text{(string)}} = e^{-\beta\phi} \left[ G_{AB}^{(5)} g_{(4)}^{AB} + B_{\mu\nu} \right] + \Lambda_{\text{dark}} g_{\mu\nu} + \alpha \Theta_{\mu\nu} + T_{\mu\nu}^{\text{(eff)}}
+\]
+\section{Term Definitions}
+\begin{itemize}
+  \item $G_{\mu\nu}$: Einstein tensor (4D gravity).
+  \item $\lambda^2 R H_{\mu\nu}$: Non-local quantum correction.
+  \item $V_{\mu\nu}^{\text{(string)}}$: String-theoretic Kalb-Ramond field.
+  \item $G_{AB}^{(5)} g_{(4)}^{AB}$: Bulk-to-brane gravity projection.
+\end{itemize}
+\section{ANOROC Acronym}
+\textbf{A}xiomatic \textbf{N}on-local \textbf{O}mnidimensional \textbf{R}icci-based \textbf{O}pen/Closed \textbf{C}osmological.
+\end{document}
