@@ -88,6 +88,9 @@
                Corona v15.2 
 ![image](https://github.com/user-attachments/assets/c0bd1929-637f-4307-bda1-4bea05bc434f)
 
+![image](https://github.com/user-attachments/assets/e9df29df-ec23-4c6c-b2c6-9df3e6e34665)
+
+
 
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
 
