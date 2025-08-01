@@ -70,6 +70,11 @@ plt.ylim(0, 1.2)
 plt.show()
 
 
-
+@misc{anoroc2025,
+  title={ANOROC Black Holes as Permeable Bags},
+  author={jc},
+  year={2025},
+  note={Speculative framework blending black hole interiors with quantum gravity regulators},
+}
 
 
