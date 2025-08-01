@@ -62,7 +62,11 @@
 - Equation 2 → LIGO & Einstein Telescope (gravitational echoes)
 - Equation 13 → CMB/structure probes (pressure, dissipation)
 - Equation 14 → Theoretical frontier (~2030+)
-<img width="896" height="772" alt="image" src="https://github.com/user-attachments/assets/5df7dd0a-3bc2-499e-b778-26332380eab4" />
+
+- 
+![image](https://github.com/user-attachments/assets/2f206284-e43e-42d3-873e-c18957bfa1e5)
+
+
 
 ![image](https://github.com/user-attachments/assets/3e88c93c-5d44-4ed7-bd3a-6784bb77bf7c)
 
