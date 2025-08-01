@@ -82,10 +82,11 @@
 ![image](https://github.com/user-attachments/assets/0e5642c4-ea2f-4ac7-8bf5-8c22c4bb28d8)
 
 
-https://github.com/javiercorona/Anoroctheoryofeverything
 
 
 
-## ⚖️ License
+                v15.2 
+![image](https://github.com/user-attachments/assets/c0bd1929-637f-4307-bda1-4bea05bc434f)
+
 
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
