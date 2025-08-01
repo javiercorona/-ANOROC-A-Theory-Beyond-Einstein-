@@ -93,6 +93,17 @@
 
 ![image](https://github.com/user-attachments/assets/be109b35-c857-4e55-b0dd-4f02a39eaddf)
 
+![image](https://github.com/user-attachments/assets/0b636a81-905f-467b-99e2-59b994d9fadc)
+
+
+![image](https://github.com/user-attachments/assets/b4d603f0-1491-4e6b-8973-9fd5e710dda2)
+
+
+![image](https://github.com/user-attachments/assets/1943eb22-f376-48f0-889d-8ec4ec99af5f)
+
+
+
+
 
 
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
