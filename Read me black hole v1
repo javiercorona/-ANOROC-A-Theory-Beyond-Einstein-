@@ -1,0 +1,75 @@
+🧱 1. ANOROC Black Hole Structure
+
+In the ANOROC paradigm (particularly versions v9 and v21), black holes end not in singularities but in Planck-scale cores with the following characteristics:
+	•	🧩 “Bag” Boundary:
+	•	Quantum-Gravitational Surface at r = \ell_p
+	•	Capped Curvature: K_{\text{max}} \sim 1/\ell_p^2
+	•	Nonlocal Channels: Possible connections to distant regions via ER=EPR bridges
+	•	🧭 Debris Fate:
+	•	Classical Matter → shredded and thermalized; no escape
+	•	Quantum Information → can potentially leak through the core via entangled wormholes
+
+⸻
+
+📐 2. Mathematical Framework
+
+The modified field equations inside the ANOROC black hole:
+
+G_{\mu\nu} + \left(1 - e^{-K/K_{\text{max}}}\right)H_{\mu\nu} + C V_{\mu\nu} = \kappa T_{\mu\nu}^{\text{(eff)}}
+	•	G_{\mu\nu}: Einstein tensor
+	•	H_{\mu\nu}: Quantum correction tensor
+	•	V_{\mu\nu}: Additional field dynamics (e.g., stringy or vector corrections)
+	•	T_{\mu\nu}^{\text{(eff)}}: Effective energy-momentum, including matter, quantum fields, and entanglement stress-energy
+
+➕ Behavior:
+	•	Outside Core (K \ll K_{\text{max}}): classical collapse proceeds
+	•	Inside Core (K \to K_{\text{max}}): collapse halts, quantum repulsion dominates
+	•	Possible emergence of ER=EPR wormholes
+	•	Internal permeability modulates whether debris can escape
+
+⸻
+
+🧪 3. Python Simulation — Debris Trajectories
+
+A simulation for modeling radial infall and permeability near the Planck core.
+
+
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Constants (define l_p and K_max before running)
+l_p = 1.0
+K_max = 1.0 / l_p**2
+
+def debris_trajectory(version, can_escape):
+    r = np.linspace(1.1 * l_p, 10 * l_p, 1000)  # Radial coordinate near core
+    K = K_max * (l_p / r)**2  # Curvature profile
+    
+    if version == "v9":
+        f_K = 1 - np.exp(-4 * np.log(2) * K / K_max)
+        permeability = 0.1 if can_escape else 0.0
+        
+    elif version == "v21":
+        f_K = 1 - np.exp(-K / K_max) + 0.2 * np.sin(K)
+        permeability = 0.3 if can_escape else 0.0
+    
+    plt.plot(r / l_p, f_K, label=f"ANOROC {version} (Permeable={can_escape})")
+    plt.axvline(x=1.0, color='r', linestyle='--', label="Planck Core (r = l_p)")
+
+# Plotting
+plt.figure(figsize=(10, 6))
+debris_trajectory("v9", can_escape=True)
+debris_trajectory("v9", can_escape=False)
+debris_trajectory("v21", can_escape=True)
+plt.xlabel("Radial Distance (r / l_p)")
+plt.ylabel("Permeability Probability")
+plt.title("Can Debris Escape ANOROC Black Holes?")
+plt.legend()
+plt.grid()
+plt.ylim(0, 1.2)
+plt.show()
+
+
+
+
+
