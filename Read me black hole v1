@@ -78,3 +78,27 @@ plt.show()
 }
 
 
+🌀 Equation 1 (Black Hole Interior Candidate):
+
+G_{\mu\nu} + (1 - e^{-K/K_{\text{max}}}) H_{\mu\nu} + CV_{\mu\nu} = \kappa T_{\mu\nu}^{(\text{eff})}
+
+Interpretation:
+	•	This resembles a Planckian-regulated Einstein equation.
+	•	(1 - e^{-K/K_{\text{max}}}) acts like a cutoff regularization, suggesting behavior near or inside extreme gravitational environments — ideal for modeling the interior of a black hole.
+	•	Clean and minimal: no string terms or extra dimensions — it isolates quantum correction with an effective stress-energy coupling.
+
+⸻
+
+🌀 Equation 2 (v11 – “Wormhole Pathway”):
+
+G_{\mu\nu} + \left(1 - e^{-K/K_{\text{cut}}} \right) H_{\mu\nu} + g_s^2 \ell_s^2 V_{\mu\nu}^{(\text{string})} = \kappa_8^2 T_{\mu\nu}^{(8\text{-brane})} + e^{-\beta\phi} \nabla_\mu \phi \nabla_\nu \phi
+
+Interpretation:
+	•	Features:
+	•	Quantum regulator (1 - e^{-K/K_{\text{cut}}})
+	•	Stringy potential term V_{\mu\nu}^{(\text{string})}
+	•	8-brane reconstruction
+	•	Scalar field encoding
+	•	Strong candidate for a teleportation bridge model, linking higher-dimensional brane structure to low-dimensional emergence.
+
+
