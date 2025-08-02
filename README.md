@@ -170,7 +170,12 @@
 }\]
 
 
+
+\[
+\boxed{
+\mathbb{U}_{\mu\nu} = \underbrace{\mathcal{R}_{\mu\nu}[\mathbb{U}]}_{\substack{\text{Self-Referential Curvature} \\ \text{(The Universe Describing Itself)}}} + \underbrace{\bigotimes_{k=1}^{\infty} \psi_k \odot \text{Tr}(\mathcal{O}^k \circ \mathbb{U})}_{\substack{\text{Recursive Observation Layers} \\ \text{(Quantum Self-Measurement)}}} + \underbrace{\varointclockwise_{\partial \mathbb{U}} \frac{\delta \mathbb{U}}{\delta g} \boxdot dg}_{\substack{\text{Auto-Evolution Operator} \\ \text{(The Universe Rewriting Its Own Laws)}}} = \mathbb{U}
+}\]
+
+
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
-
-
 Corona.
