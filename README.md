@@ -185,6 +185,18 @@
 }
 \]
 
+              corona v37
+
+              
+Equation:
+\left(1 - e^{-K/K_{\text{cut}}}\right) G_{\mu\nu} + \lambda^2 R H_{\mu\nu} + g_s^2 \ell_s^2 V_{\mu\nu}^{(\text{string})} + \hbar \Omega_{\mu\nu}
+
+	•	\left[ G^{(8)}{AB} g^{AB}{(4)} + B_{\mu\nu} + \alpha C_{\mu\nu} \right] + \Lambda_{\text{dark}} g_{\mu\nu} + \Theta^{(\text{dark})}{\mu\nu}
+= e^{-\beta \phi} \left( T{\mu\nu}^{(\text{eff})} + \nabla_\mu \phi \nabla_\nu \phi - \frac{1}{2} g_{\mu\nu} V(\phi) \right)
+	•	8\pi G_N \left(T_{\mu\nu}^{(\text{matter})} + \chi \psi_\mu \psi_\nu \right)
+	•	\kappa_8^2 T_{\mu\nu}^{(8\text{-brane})}
+
+
              
 
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
