@@ -110,7 +110,7 @@
 
 
 
-               v28
+            anoroc   v28
 
 \[
 \boxed{
