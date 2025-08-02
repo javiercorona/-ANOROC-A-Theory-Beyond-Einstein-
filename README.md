@@ -130,6 +130,14 @@
 \]
 ![image](https://github.com/user-attachments/assets/640c3d1e-ef68-42fa-9856-91f6c0a1b055)
 
+               anoroc v30
+\[
+\boxed{
+\overset{\textcolor{cyan}{\text{🌀}}}{\mathbb{F}_{\mu\nu}} = \underbrace{\mathcal{G}_{\mu\nu}[\mathbb{S}]}_{\substack{\text{Core Spin} \\ \text{(Geometric Axle)}}} + \underbrace{\sum_{n=1}^\infty \Phi_n \star \mathcal{Q}^{(n)}_{\mu\nu}}_{\substack{\text{Fractal Blades} \\ \text{(Multiscale Corrections)}}} + \underbrace{\oint \frac{\delta \mathbb{F}}{\delta g} \circ dg}_{\substack{\text{Spin Recursion} \\ \text{(Meta-Dynamics)}}} = \mathcal{Z}
+\]
+![image](https://github.com/user-attachments/assets/88a435ae-5738-4d71-b3d3-ed411aa2b1d6)
+
+
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
 
 
