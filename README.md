@@ -146,6 +146,15 @@
 
 ![image](https://github.com/user-attachments/assets/873ce6d2-9ee2-42b1-bbdf-f376fd2c8752)
 
+             anoroc v31.5
+
+\[
+\boxed{
+\mathbb{H}_{\mu\nu} = \underbrace{\mathcal{T}_{\mu\nu}[\Psi]}_{\substack{\text{Geometric Kernel} \\ \text{(Differentiable Manifold)}}} + \underbrace{\bigoplus_{k=1}^\mathcal{D} \sigma_k \odot \text{Tr}(\mathcal{W}^k \otimes \mathcal{R}^k)}_{\substack{\text{Adaptive Holographic Layers} \\ \text{(Dynamic Bulk/Boundary)}}} + \underbrace{\kappa \int_\mathcal{M} \frac{\delta\mathbb{H}}{\delta g} \circledast dg}_{\substack{\text{Autodidactic Meta-Flux} \\ \text{(Backpropagation Through Space)}}} = \mathfrak{Z}_{\text{obs}}
+}\]
+![image](https://github.com/user-attachments/assets/e65d74d3-8db6-417f-9efa-174dc5b56b6a)
+
+
 
 
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
