@@ -192,6 +192,28 @@
 = e^{-\beta \phi} \left( T{\mu\nu}^{(\text{eff})} + \nabla_\mu \phi \nabla_\nu \phi - \frac{1}{2} g_{\mu\nu} V(\phi) \right)
 	•	8\pi G_N \left(T_{\mu\nu}^{(\text{matter})} + \chi \psi_\mu \psi_\nu \right)
 	•	\kappa_8^2 T_{\mu\nu}^{(8\text{-brane})}             
+![image](https://github.com/user-attachments/assets/87b2edc0-845c-48f1-97d9-4fbf5566cb5f)
+
+![image](https://github.com/user-attachments/assets/9dfeeb61-2dda-4db3-85ba-a7f9c98a73c1)
+
+
+![image](https://github.com/user-attachments/assets/4317d52a-40a7-4d54-9ff7-812bb582000a)
+
+
+![image](https://github.com/user-attachments/assets/d0643a0e-9921-40e3-bc5a-4b31c4022471)
+
+
+![image](https://github.com/user-attachments/assets/0b24cdbd-524c-4568-8f75-aee49a4337bf)
+
+
+![image](https://github.com/user-attachments/assets/ae2040b4-a6a8-43cb-8735-5fdad4bf4a21)
+
+
+![image](https://github.com/user-attachments/assets/f9de203d-eeca-4c38-a0ec-3914ea8eccca)
+
+
+
+
 
 
 
