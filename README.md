@@ -177,5 +177,15 @@
 }\]
 
 
+             anoroc v36
+
+\[
+\boxed{
+\mathfrak{U}_{\mu\nu} = \underbrace{\mathcal{R}_{\mu\nu}[\mathfrak{U}]}_{\substack{\text{Self-Description} \\ \text{(Autological Core)}}} + \underbrace{\sum_{k=1}^\infty \psi_k \boxdot \text{Tr}(\mathfrak{U}^k \circ \mathfrak{U}^{-k})}_{\substack{\text{Recursive Realization} \\ \text{(Meta-Observation)}}} + \underbrace{\varointclockwise \frac{\delta \mathfrak{U}}{\delta g} \circledast dg}_{\substack{\text{Auto-Creation} \\ \text{(Existential Flux)}}} = \mathfrak{U}
+}
+\]
+
+             
+
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
 Corona.
