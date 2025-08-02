@@ -120,7 +120,15 @@
 
 ![image](https://github.com/user-attachments/assets/fd33e45b-4ec9-4555-bf56-9221590c98be)
 
+             anoroc v29
 
+
+\[
+\boxed{
+\overset{\textcolor{cyan}{\text{🌀}}}{\mathbb{S}_{\mu\nu}} = \underbrace{G_{\mu\nu}}_{\substack{\text{Axle} \\ \text{(Curvature Core)}}} + \underbrace{\sum_{k=1}^N \lambda_k \mathcal{Q}^{(k)}_{\mu\nu}}_{\substack{\text{Blades} \\ \text{(Quantum Corrections)}}} + \underbrace{\beta \mathcal{F}_{\mu\nu}[\dot{\mathbb{S}}]}_{\substack{\text{Spin Regulator} \\ \text{(Feedback Control)}}} = 0
+}
+\]
+![image](https://github.com/user-attachments/assets/640c3d1e-ef68-42fa-9856-91f6c0a1b055)
 
 “Et sic, ex ordine et elegantia formarum, finem dat formula ultima: Anoroc.”
 
