@@ -185,7 +185,7 @@
 }
 \]
 
-              corona Equation:
+        corona Equation:
 \left(1 - e^{-K/K_{\text{cut}}}\right) G_{\mu\nu} + \lambda^2 R H_{\mu\nu} + g_s^2 \ell_s^2 V_{\mu\nu}^{(\text{string})} + \hbar \Omega_{\mu\nu}
 
 	•	\left[ G^{(8)}{AB} g^{AB}{(4)} + B_{\mu\nu} + \alpha C_{\mu\nu} \right] + \Lambda_{\text{dark}} g_{\mu\nu} + \Theta^{(\text{dark})}{\mu\nu}
