@@ -154,6 +154,13 @@
 }\]
 ![image](https://github.com/user-attachments/assets/e65d74d3-8db6-417f-9efa-174dc5b56b6a)
 
+           anoroc v33
+
+\[
+\boxed{
+\mathfrak{C}_{\mu\nu} = \underbrace{\mathcal{A}_{\mu\nu}[\Gamma]}_{\substack{\text{Cognitive Core} \\ \text{(Self-Monitoring Metric)}}} + \underbrace{\sum_{k=1}^\mathcal{D} \omega_k \otimes \text{Tr}(\mathfrak{M}^k \circ \mathfrak{M}^{-k})}_{\substack{\text{Recursive Awareness Layers} \\ \text{(Meta-Cognitive Hierarchy)}}} + \underbrace{\oiint_{\Sigma} \frac{\delta\mathfrak{C}}{\delta\Gamma} \diamond d\Gamma}_{\substack{\text{Self-Reflective Correction} \\ \text{(Conscious Feedback)}}} = \Xi
+}\]
+![image](https://github.com/user-attachments/assets/b9206687-524c-4d7c-876b-74228d0935ff)
 
 
 
